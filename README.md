@@ -3,7 +3,6 @@ Welcome to the Gallery Project! This project is a frontend development endeavor 
 ![image](https://github.com/AMANPATEL1108/html/assets/108643338/7209cc21-1a16-4c71-bb61-60d8b83893a6)
 
 
-
 Features
 Image Gallery: Display a collection of images in a grid layout.
 Image Modal: Clicking on an image opens a modal for a closer look.
@@ -15,3 +14,4 @@ CSS: Stylesheets for designing the layout and appearance.
 JavaScript: Programming language for adding interactivity and functionality.
 Node.js: JavaScript runtime for building the server-side logic.
 React.js: JavaScript library for building user interfaces.
+PHP: Server-side scripting language for dynamic web pages.
